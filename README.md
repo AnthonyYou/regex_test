@@ -1,0 +1,1 @@
+使用libcurl和boost开发的一个网络爬虫模型，libcurl用来爬取网页，boost的regex模块做正则匹配，boost的regex模块直接拷贝到了工程中。
